@@ -3,6 +3,7 @@ Este ejercicio se creó principalmente para poner en practica los conceptos de p
 Este sistema busca simular la gestion de tres tipos de usuarios dentro de una institución educativa, mayormente orientado al registro, edicion y gestión de las calificaciones 📚.
 
 ## Estructura de los archivos
+```
 SistemaUsuariosTdeA1/
 │
 ├── Source Packages/
@@ -12,3 +13,4 @@ SistemaUsuariosTdeA1/
 │     ├── Profesor.java ← Hereda de User
 │     ├── Admin.java ← Hereda de User
 │     └── SistemaUsuarios.java ← Clase principal (main)
+```
