@@ -7,7 +7,6 @@ Este sistema busca simular la gestion de tres tipos de usuarios dentro de una in
 SistemaUsuariosTdeA1/
 │
 ├── Source Packages/
-│ └── com.mycompany.SistemaUsuarios/
 │     ├── User.java ← Clase base (superclase)
 │     ├── Estudiante.java ← Hereda de User
 │     ├── Profesor.java ← Hereda de User
