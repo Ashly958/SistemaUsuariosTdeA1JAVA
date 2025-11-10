@@ -7,8 +7,8 @@ SistemaUsuariosTdeA1/
 │
 ├── Source Packages/
 │ └── com.mycompany.SistemaUsuarios/
-│ ├── User.java ← Clase base (superclase)
-│ ├── Estudiante.java ← Hereda de User
-│ ├── Profesor.java ← Hereda de User
-│ ├── Admin.java ← Hereda de User
-│ └── SistemaUsuarios.java ← Clase principal (main)
+│     ├── User.java ← Clase base (superclase)
+│     ├── Estudiante.java ← Hereda de User
+│     ├── Profesor.java ← Hereda de User
+│     ├── Admin.java ← Hereda de User
+│     └── SistemaUsuarios.java ← Clase principal (main)
